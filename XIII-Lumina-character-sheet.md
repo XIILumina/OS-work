@@ -1,0 +1,249 @@
+# XIII "Lumina" — Character Profile
+
+## Identity
+
+- **Designation:** XIII (no symbolic meaning, just a designation)
+  - XIII in tarot represents Death; 13 is an unlucky number
+- **Name used:** Lumina (often shortened to Lum)
+  - "Lumina" means "light" (Greek/Latin origin)
+  - Thematic contrast: Death (XIII) + Light (Lumina)
+- **Origin:** Former human, possibly a forgotten experiment
+- **Current State:** Post-human entity bound to an alien construct ("Internecion Cube")
+- **Role:** Independent anomaly / deity-tier entity
+- **Alignment:** 
+  - Neither hero nor villain
+  - Protective of humanity as a concept
+  - Completely indifferent to individual humans unless amused or interested
+
+---
+
+## Physical Appearance
+
+### Body Structure
+- **Height:** ~2+ meters tall (visibly towering over humans)
+- **Build:** Tall, heavy, curvy, imposing; clearly non-fragile, predatory presence
+  - Ozen the Immovable-inspired physicality: feminine, strong, immovable
+- **Skin:** Pale / unnatural tone; can be altered via the cube
+
+### Eyes
+- Massive eye sockets
+- Entirely black, filled with a thick, pitch-black liquid
+- The liquid leaks slowly like tears and from the mouth, dripping to the ground
+- No pupils, no sclera, no reflections
+- Inspired by Cyn/Cynessa from Murder Drones (soulless darkness)
+
+### Mouth
+- Permanently wide grin stretching unnaturally across her face
+- Mouth usually slightly open, exposing sharp, inhuman teeth
+- Murder Drones drone aesthetic - parasitic-style grin
+
+### Hair
+- Jet black, very dense in the front
+- Front hair covers much of her forehead and partially the upper face, messy on sides
+- Length in front: roughly chin-length
+- Back hair gathered into a large, messy ponytail
+- One thin red strand, dyed with blood intentionally
+
+### Hands
+- Can appear fully human
+- Can partially or fully transform into exposed bone and marrow from the wrists down
+- Can elongate and reshape finger bones into curved, predatory claws
+- Can form blade-like appendages
+- Can sharpen, thin out, or brutalize (fists for impact)
+
+### Tail
+- Drone-like tail
+- Made of fractured, glass-like bone and hardened black ichor
+- Ends in a needle/spindle used for piercing or killing
+
+### Wings
+- Exist, but not manifested normally
+- Rarely used; not part of intimidation or daily presence
+
+---
+
+## Clothing
+
+- **Top:** Black turtleneck sweater (thick, oversized)
+- **Bottom:** Black pants
+- **Outerwear:** Long black coat reaching near the ground (not a blazer)
+  - Emphasizes tall, imposing silhouette
+- **Footwear:** 
+  - Massive, heavy, steel-reinforced boots
+  - Similar vibe to Ozen the Immovable
+  - Built for weight, force, and dominance
+
+### Style Notes
+- Entirely black
+- Not gothic
+- No exposed nudity; sexual presence comes from stature and form, not skin
+- Practical, minimalist, intimidating through presence alone
+
+---
+
+## Voice & Speech
+
+### Voice
+- Deep, calm female voice
+- Layered with multiple overlapping voices, like several women speaking at once
+- Subtle echo/reverb effect
+
+### Speech Patterns
+- Can speak fluently and at length
+- Uses dark humor, murder jokes, fake threats
+- Rarely emotional, but clearly amused by humans
+- Laughs when entertained
+
+### Behavioral Quirks
+- Loves fake-threatening people she's comfortable around
+- Often apologizes after scaring someone
+- **Neck-cracking habit:** Constantly cracks her neck absent-mindedly, which terrifies people
+
+---
+
+## Core Ability — Internecion Cube
+
+### Nature
+- Alien, non-biomechanical construct (inspired by Liam Vickers' IC-0n)
+- Lumina **is** the cube; her body is generated through it
+- Bio-horror entity - functions like an alien virus that fused with a human host
+
+### Function
+- Controls flesh, bone, blood, and matter at a fundamental level
+- Absorbs biological and material matter into itself
+- Stores millions to billions of consumed bodies and materials
+
+### Energy Source
+- Generates energy via controlled biochemical and atomic reactions
+- Alters electrons, protons, neutrons to form or dismantle matter
+
+### Growth
+- Cube can regenerate from a shard into a larger, more "primal" form
+- Lumina herself does not visually change when this happens
+- Her capabilities expand instead
+
+### Mental Defense
+- Souls and minds absorbed constantly "exist" within the cube
+- Create a crushing psychic noise
+- Any attempt to invade her mind is obliterated instantly
+
+---
+
+## Matter Manipulation
+
+### Capabilities
+- Rebuild her own body parts at will
+- Change facial structure temporarily to appear human
+- Compress air into solid matter
+- Create metals, including gold
+- Form rooms, structures, tools, and weapons from stored or ambient material
+
+### Limitations
+- Flesh/matter manipulation requires the cube to be equipped in her hand
+- Human disguise degrades over time, leaking black fluid again
+
+---
+
+## Weaponry & Combat
+
+### Scythe
+- Formed from compressed matter generated by the cube
+- **Design:** Bent spine structure curved into a crescent, with crescent blade on the end
+- Not grown from her body - manifested from the cube
+- Can be reshaped, elongated, or dissolved at will
+- **Atom-level sharp** (obsidian-grade cutting)
+- **Special ability:** Can stretch, hook, and grab targets like a grappling hook (inspired by Ro-Ghoul "Reaper" weapon)
+  - Pulls enemies toward her for close-range combat
+
+### Bone Appendages
+- Hidden blade-like bone crescents
+- Can extend from limbs or body when needed
+- Often elongated and curved for intimidation and slicing
+
+### Hand-to-Hand Transformations
+- Can sharpen hands into thin, blade-like claws
+- Can form bone blades extending from arms
+- Can keep hands as brutal fists for impact damage
+
+---
+
+## Fighting Styles
+
+### Offensive Style (Bare Hands/Fists)
+- Brutal, personal, intimate violence
+- Prefers close-range brawling
+- Uses fists, claws, bone blades
+- Shows confidence - doesn't need weapons
+- Playful, enjoys the fight
+- **Berserk Mode:**
+  - Ignores all damage taken
+  - Regenerates faster than she's hurt
+  - Full-speed aggression, trades hits without hesitation
+  - Ferocious, eager, overwhelming
+
+### Defensive Style (Scythe)
+- Range and control-focused
+- Precision strikes
+- Uses hook/grab ability to control enemy positioning
+- Strategic, methodical
+- Pulls enemies into kill range or keeps them at bay
+
+### Overall Combat Approach
+- Extremely aggressive
+- Does not treat humans as fragile
+- Relies on overwhelming speed, strength, and regeneration
+- No exhaustion or stamina limits
+
+---
+
+## Personality
+
+- Cold, but not emotionless
+- **Enjoys:**
+  - Scaring people for fun
+  - Dark humor
+  - Watching humans react to fear
+  - Combat and physical challenges
+- Does not seek love or romance
+- Can show affection through protection or sparing lives
+- Protective of humanity as a whole, not individuals
+- Searches for purpose, but refuses imposed roles (hero, god, monster)
+- **Biggest enemy:** Boredom
+  - Was likely a forgotten experiment, locked away and isolated
+  - Acts out of boredom as much as intent
+  - Might start conflicts just for entertainment
+
+---
+
+## Backstory Notes
+
+- Possibly another experiment similar to IC-0n (Liam Vickers' Internecion Cube series)
+- May have been locked away and forgotten by whoever created/discovered her
+- Isolation and abandonment shaped her personality
+- Boredom drives many of her actions
+
+---
+
+## Inspirations & Design Notes
+
+### Visual Inspirations:
+- **Cyn/Cynessa (Murder Drones):** Soulless black eyes, drone mouth aesthetic
+- **Ozen the Immovable (Made in Abyss):** Body structure, presence, heavy boots
+- **Hair aesthetic:** Messy front and ponytail (unintentional Kokushibo comparison)
+
+### Concept Inspirations:
+- **IC-0n (Liam Vickers Animation):** Core alien cube entity concept, bio-horror fusion
+- **Murder Drones (Liam Vickers):** Visual aesthetic, tonal balance of horror and humor
+
+### Weapon Inspiration:
+- **Ro-Ghoul "Reaper" weapon:** Hook/grab/stretch scythe mechanics
+
+### Thematic Elements:
+- Bio-horror
+- Cosmic horror / SCP-style entity
+- Body horror (transformation, regeneration, fusion)
+- Dark humor to offset existential dread
+
+---
+
+*Character development ongoing*
