@@ -1,23 +1,16 @@
-# XIII Lumina Character Sheet
+# Character Sheet Updates
 
 ## Eyes
-Normal state: Liquid remains contained within eye sockets. Under pressure/stress/combat/insanity: Liquid flows out like tears, dripping down face and from mouth.
+Normal state: Liquid remains contained within eye sockets. Under pressure/stress/combat/insanity: Liquid leaks and flows like tears, dripping from eyes and mouth. Visual indicator of her mental/emotional state.
 
 ## Mouth
-Normal state: Can appear human, capable of normal expressions. Combat/stress/insanity state: Stretches into an unnaturally wide grin. Grin can be voluntary (intimidation) or involuntary (loss of control, berserk state). When active: exposes sharp, inhuman teeth. Acts as a threat display and visual indicator of danger.
+Normal state: Can appear relatively normal, capable of regular expressions. Combat/stress/insanity state: Transforms into unnaturally wide grin stretching across her face. When grinning: exposes sharp, inhuman teeth. The grin can be voluntary (threat display) or involuntary (loss of control).
 
 ## Footwear
-Black tall military boots. Slim profile, practical design. Emphasizes height without standing out.
+Black tall military boots, slim profile, practical, doesn't stand out excessively despite her height.
 
 ## Transformation States
-### Normal/Calm State
-Appears mostly human from a distance. Eyes are dark but not leaking. Face shows normal expressions. Can blend into crowds with coat and turtleneck. Height is only major giveaway.
-
-### Stress/Interest State
-Eyes begin to seep black liquid slightly. Face may show hints of wider grin. Increased presence/intimidation factor.
-
-### Combat/Aggression State
-Eyes flow freely with black ichor, dripping down face. Mouth stretches into unnatural wide grin, exposing sharp teeth. Hands may transform into claws or bone blades. Full predatory presence.
-
-### Berserk/Insanity State
-Ichor pours from eyes and mouth. Grin locked at maximum width. Complete loss of human appearance. Pure horror entity mode. No restraint, maximum aggression.
+- **Normal/Neutral State**: Relatively human appearance, eyes dark but not leaking, normal facial expressions possible, can blend into crowds
+- **Stress/Interest State**: Slight ichor seepage from eyes, face may shift toward grin
+- **Combat/Active State**: Wide horror grin fully manifested, ichor flowing from eyes and mouth, hands may transform
+- **Berserk/Insanity State**: Maximum ichor flow pouring from eyes/mouth, grin locked at maximum width, pure destruction mode.
