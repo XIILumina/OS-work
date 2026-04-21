@@ -1,5 +1,15 @@
 # XIII "Lumina" — Character Profile
 
+## Quick Character Rating & Reboot Direction
+
+- **Overall character concept rating:** **8.5/10**
+- **Strongest parts:** visual identity, horror tone, power fantasy consistency, voice/personality hooks
+- **Main refactor targets for a fresh restart:**
+  - tighten lore contradictions (especially morality vs behavior)
+  - reduce repeated ability descriptions across files
+  - lock one canon baseline and move experiments/drafts to archive only
+  - keep the same core identity, but rebuild scene-by-scene with clearer progression
+
 ## Core Identity
 
 - **Designation:** XIII (experiment designation)
