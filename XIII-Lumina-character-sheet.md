@@ -1,354 +1,204 @@
-# XIII "Lumina" — Character Profile
+# XIII "Lumina" - Canon Character Sheet (Remade)
 
-## Core Identity
+## Identity Snapshot
 
-- **Designation:** XIII (experiment designation)
-- **Name:** Lumina (often shortened to Lum)
-- **True Nature:** She IS an Internecion Cube (IC-0n type entity)
-  - Can collapse into pure cube form at will
-  - Human form is materialized condensed matter around the cube core
-  - The cube chose her as its avatar during the experiment
-- **Origin:** Former human, consumed by the cube during a recent experiment
-  - Transformation was recent (months, maybe a year ago)
-  - Pre-cube identity unknown, memories fragmented
-  - Does NOT know why she was chosen
-  - Still discovering what she can do
-- **Current State:** Autonomous anomalous entity, exceptionally powerful
-- **Alignment:** No moral compass - pure brutality when provoked
+- **Designation:** Subject XIII
+- **Chosen Name:** Lumina ("Lum" in close conversation)
+- **Nature:** An Internecion Cube entity using a humanoid shell
+- **Origin:** Former human consumed during an anomalous experiment
+- **Current Status:** Autonomous, uncontained, conditionally cooperative
+- **Core Conflict:** Infinite capability paired with existential emptiness
 
 ---
 
-## Physical Appearance
+## Canon Corrections (Locked)
 
-### Body Structure
-- **Height:** 2.3 meters (7'6" / Ozen the Immovable exact height)
-- **Build:** Tall, heavy, curvy, imposing feminine form
-  - Predatory presence, clearly non-fragile
-  - Ozen-inspired physicality: strong, immovable, looming
-- **Composition:** Body made from condensed biomatter
-  - Can reshape/reconstruct herself at will
-  - Bone and flesh held together by cube's power
+Use this section as source of truth when writing future stories.
 
-### Face & Expression
-- **Eyes:** Entirely black, filled with thick pitch-black liquid
-  - **Pupils:** Vertical line pupils - multiple narrow compressed lines (like ||||)
-  - Pupils give her FOCUS - you know she's watching
-  - Normal state: liquid contained in sockets
-  - Stress/combat: liquid flows out like tears, drips from eyes and mouth
-- **Mouth:** Can appear relatively human normally
-  - **Grin (threat/combat):** Corners of mouth are RIPPED FLESH
-  - When grinning wide, the flesh at corners TEARS to extend the smile
-  - Body horror grin - the tissue literally splits open
-  - Teeth: Sharp, triangular, predatory (Murder Drones bloodthirsty style + Parasite face arrangement)
-  - NOT excessive teeth - just efficient and threatening
-- **Reference:** Roblox "Parasite" face + Murder Drones disassembly drone bloodthirsty expression
+- **Height (default humanoid shell):** 2.04 m (not 2.30 m)
+- **Foundation dynamic:** Cooperation by consent only, never obedience
+- **Biological manipulation:** Uncontrolled; attempted reshaping produces hostile abominations
+- **Abomination behavior:** Moves/repositions only when unobserved (Weeping Angel rule)
+- **Self-perception:** Calls herself a monster, but still seeks purpose and honest contact
+- **Gluttony curse:** Biomass deprivation does not weaken her body — it erodes her mind and restraint over time until she acts
+
+---
+
+## Physical Design
+
+### Silhouette
+- Tall, broad, physically dominant feminine frame
+- Heavy grounded posture, "immovable" body language
+- Motion contrast: statuesque idle state, violent burst acceleration in combat
+
+### Face and Eyes
+- Eyes appear as black liquid reservoirs
+- Narrow vertical multi-line pupils are visible at close range
+- In stress/combat, black fluid leaks from eyes and mouth edges
+- Smile often can widen into torn-corner body horror grin with triangular predatory teeth
 
 ### Hair
-- Jet black, very dense in front
-- Front hair covers forehead and partially upper face, messy on sides
-- Length: roughly chin-length in front
-- Back: gathered into large messy ponytail
-- Single thin red strand dyed with blood (intentional)
+- Jet black, dense front volume partially obscuring upper face
+- Messy gathered back section (ponytail-like mass)
+- Optional single thin red strand as a visual anchor detail
 
-### Hands & Transformations
-- Default: Can appear fully human
-- Can partially/fully transform into exposed bone and marrow from wrists down
-- Can elongate finger bones into curved predatory claws
-- Can form blade-like appendages
-- Can sharpen into thin blades or brutalize into impact fists
-- All transformations instant, seamless
+### Limbs and Morph States
+- Hands can remain human or expose bone/marrow structures from wrist down
+- Finger bones can extrude into claws, blades, or piercing forms
+- Transformations are near-instant or presentative and often happen mid-motion
 
-### Tail
-- Drone-like tail structure
-- Made of fractured glass-like bone and hardened black ichor
-- Ends in needle/spindle for piercing/killing
-- Can be manifested or hidden at will
-
-### Wings
-- Can manifest when needed (NOT constant presence)
-- Reserved for specific situations requiring flight/intimidation
+### Optional Manifestations
+- Tail: thin hardened black ichor and bone-like segmented spike structure finished with a broken glass canister and an injector like blade
+- **No wings.** Removed from canon — not her aesthetic.
 
 ---
 
-## Clothing & Style
+## Wardrobe Language
 
-- **Top:** Black turtleneck sweater (thick, oversized)
-- **Bottom:** Black pants
-- **Outerwear:** Long black coat reaching near ground
-- **Footwear:** Black tall military boots (slim profile, practical)
-- Entirely black color scheme
-- NOT gothic - practical/minimalist
-- Synthetic materials (resist flesh transformation)
-
----
-
-## Voice & Behavior
-
-### Voice
-- Deep, calm female voice
-- Layered with multiple overlapping voices (several women speaking at once)
-- Subtle echo/reverb effect
-- Softer when calm, harsher when stressed
-
-### Speech Patterns
-- Fluent, can speak at length
-- Dark humor, murder jokes, fake threats
-- Rarely emotional but clearly capable of amusement
-- Direct, honest when she bothers to speak
-- Often silent - prefers watching
-
-### Behavioral Notes
-- Avoids crowds and noise
-- Stays distant (rooftops, empty buildings, forests)
-- Watches from afar
-- On edge - easily provoked but not randomly violent
-- Pure brutality when threatened or challenged
-- No morality, no pattern, no mission
-- The billion souls inside whisper constantly - she ignores them
+- Black turtleneck (thick, practical)
+- Long black coat with weight and movement
+- Black tactical/military boots
+- Black pants with minimal ornamentation
+- Often can wear manly outfits, such as suits
+- Visual tone is utilitarian menace, not decorative goth
 
 ---
 
-## Core Ability: The Internecion Cube
+## Voice and Presence
 
-### What She IS
-- Lumina IS the cube itself
-- Human form = materialized condensed matter around cube core
-- Can collapse into pure cube form
-- The cube is her true self; the body is a shell
-
-### The Cube's Nature
-- Alien viral entity
-- Consumes and stores matter and consciousness
-- Contains billions of absorbed souls/minds
-- Constant psychic noise (screaming souls) - she's learned to tune out
-- Any mental invasion is obliterated by psychic noise
-
-### Growth & Regeneration
-- Can regenerate from damage instantly
-- Black ichor instead of blood
-- Effectively unkillable as long as cube core exists
+- Deep calm feminine base voice
+- Layered overtone effect, like multiple synchronized speakers
+- Dry humor, blunt honesty, occasional mockery
+- Emotion is controlled but real: amusement, fatigue, curiosity, irritation
 
 ---
 
-## Matter Manipulation
+## Ability System
 
-### NON-BIOLOGICAL MATTER (Full Control)
-**Materials:** Metal, concrete, plastic, glass, liquids, gases
+### 1) Core Nature: The Cube
 
-**Capabilities:**
-- Transform into ANY shape or object
-- Compress air into solid matter
-- Create complex machinery, tools, weapons
-- Rearrange atomic structure
-- Still discovering full extent of abilities
+- Lumina is the cube; the humanoid body is a projected shell
+- Can collapse toward pure cube state
+- Regenerates from impossible damage as long as cube integrity holds
+- Stores consumed matter and consciousness imprint data
 
-**Limitations:**
-- Must have material to work with (uses absorbed matter or ambient material)
+### 2) Non-Biological Matter Control (High Precision)
 
-### BIOLOGICAL MATTER (No Control - Creates Abominations)
-**What Happens:**
-- She CANNOT control biological transformations
-- Any attempt to reshape biomass = FLESH ABOMINATION
-- Flesh becomes hostile, autonomous, apex predatory
-- Made from same material as her = exceptionally fast and strong
-- Hostile to everything (including her) but avoids her due to power difference
-- Displays Weeping Angel movement (instant repositioning when unobserved)
-- Flesh constantly MELTS off skeleton like water, leaving animated bone structure
+- Can reshape metal, concrete, glass, polymers, and other non-living matter
+- Can convert available material into tools, weapons, barriers, and structures
+- Can perform high-speed structural reconfiguration during combat
+- Practical limit: must source mass/energy from environment or reserves
 
----
+### 3) Biological Manipulation (Catastrophic Failure Mode)
 
-## Biomass Consumption
+- Cannot safely sculpt biological matter
+- Attempts produce autonomous hostile flesh constructs
+- Constructs are fast, predatory, and difficult to contain
+- Movement rule: they reposition when not being directly observed
+- Lumina does not fully control these constructs after creation
 
-- Consumes bodies/biomass as sustenance
-- Not just storage - actual nutritional requirement
-- Absorption process:
-  1. Matter drawn into her
-  2. Consciousness/soul absorbed into cube (becomes background noise)
-  3. Physical matter stored/integrated
-- Can go periods without eating but becomes weaker
-- No preference for "good" or "bad" targets - just availability and convenience
+### 4) Biomass Consumption & The Gluttony Curse
 
----
+- Can absorb biological mass as fuel/reserve
+- Consciousness echoes become part of persistent internal psychic noise
+- The cube demands constant resupply — not as a physical need but as a psychological siege
 
-## Combat Abilities
+**Deprivation Stages (approximate, not rigid):**
 
-### Speed & Movement
-- Supernaturally fast always
-- Can move between eye blinks
-- Weeping Angel movements used deliberately (enjoys the horror of it)
-- Combat speed = nearly imperceptible
-- Silent movement - can appear behind targets without sound
+| Stage | Timeframe | Effect |
+|---|---|---|
+| 1 — Itch | Days 1–3 | Heightened irritability, slightly shorter patience, intrusive thoughts about feeding |
+| 2 — Pressure | Days 4–7 | Voices from consumed souls grow louder and more coherent, head pain intensifies, sleep-like states become impossible |
+| 3 — Craving | Week 2+ | Involuntary partial transformations during idle moments, difficulty maintaining selective restraint, predatory attention sharpens toward nearby targets regardless of guilt |
+| 4 — Override | Prolonged | She will consume something. Not because she lost control — because she decides the torment is no longer worth resisting. That choice is the moral weight. |
 
-### Combat Horror - Mid-Fight Transformations
-- **This is her signature**
-- Sudden flashes of horrifying transformation DURING combat
-- Flesh melts off mid-strike, revealing bone
-- Face splits into ripped grin between attacks
-- Hands become claws between punches
-- Jaw unhinges mid-movement
-- Horror happens FAST - barely register before she's "normal" again
-- Uses this to intimidate and disorient opponents
-
-### Regeneration
-- Instant wound closure
-- Can regrow limbs, organs, entire body sections
-- Black ichor instead of blood
-- Pain doesn't slow her down
-- Can regenerate from cube shard
-
-### Weaponry
-
-**Scythe (Primary Weapon):**
-- Formed from compressed non-organic matter
-- Design: Bent spine curved into crescent with blade on end
-- Atom-level sharpness
-- Can stretch/extend like grappling hook
-- Can reshape/dissolve at will
-
-**Bone Appendages:**
-- Hidden blade-like bone crescents
-- Extend from limbs/body when needed
-- Can form shields, spikes, armor
-
-**Hand Transformations:**
-- Thin blade-like claws (precision)
-- Bone blades from arms (reach)
-- Brutal fists (impact damage)
-- All instant, seamless switching
-
-### Fighting Style
-- Extremely aggressive
-- No exhaustion or stamina limits
-- Overwhelms with speed/strength/regeneration
-- **Experiments mid-combat** - testing new abilities, trying different approaches
-- Enjoys the challenge when something can actually fight back
-- Pure brutality when provoked
+**Why It Matters (Not a Weakness — A Moral Trap):**
+- Her body never fails, never slows, never breaks from hunger
+- This makes the curse entirely psychological and ethical
+- She can hold out as long as she wants — but the longer she holds, the more she suffers and the more she becomes what she fears
+- The eventual act is inevitable, and she knows it; the only question is who or what she chooses as the target when that moment comes
+- In quiet story scenes this is her most human vulnerability: she is always negotiating with herself between what she wants to be and what the cube demands she is
 
 ---
 
-## Transformation States
+## Combat Profile
 
-### Normal/Neutral
-- Relatively human appearance
-- Eyes dark with visible line pupils
-- Normal facial expressions
-- Can blend into crowds (as much as 2.3m woman can)
+- Extreme close-range lethality
+- More than godly speed and force
+- Often prefers fist combat as a first resort — personal, visceral, deliberate
+- Massive durabi lity with rapid regeneration
+- Mid-fight body horror morphing used for intimidation and tempo breaks
+- Preferred style: overwhelming pressure, psychological collapse, then execution
+- Uses speed in short impossible-looking bursts rather than constant blur display
 
-### Combat/Active
-- Ripped grin fully manifested (corners of mouth tear open)
-- Ichor flowing from eyes and mouth
-- Hands transform to claws/blades
-- Full predatory mode
-- Mid-combat horror transformations happen rapidly
+### The Scythe
 
----
+The scythe is not a carried weapon. It does not exist until she decides it does.
 
-## Personality
-
-- Cold, brutal, not emotionless but rarely shows feeling
-- **Primary motivation: Testing Limits** (discovering what she can do)
-- Recently transformed - still learning her capabilities
-- Seeks challenges and threats to understand her boundaries
-- Wanders randomly, avoids noise and crowds
-- Distant watcher - observes from afar
-- On edge, easily provoked, but not randomly violent
-- No moral compass - doesn't judge "good" or "bad"
-- Acts when provoked, when curious, when hungry
-- No pattern, no mission, no grand purpose
-
-### What She Enjoys:
-- Testing her powers
-- Finding worthy challenges
-- Scaring people (finds the reactions interesting)
-- Silence and solitude
-
-### What She Doesn't Want:
-- Crowds and noise
-- Being controlled or contained
-- Being judged or classified
-
-### Complex Traits:
-- Doesn't understand herself fully yet
-- The souls inside whisper constantly - she ignores them (background noise)
-- Searches for limits but doesn't know what she's ultimately looking for
-- Not lonely - just distant
-- Respects strength and honesty
+- Materialized directly from her own condensed flesh and bone
+- Emerges from the forearm or palm and assembles itself in under a second
+- Form: a long curved crescent blade mounted on a dense bone-shaft, asymmetric and slightly wrong-looking — like someone described a scythe from memory and the cube guessed the rest
+- The blade edge is atom-thin and structurally self-maintaining
+- The shaft can extend, contract, or flex mid-swing
+- Can dissolve back into her body instantly
+- Black ichor seeps along the blade face when active — not for effect, it just does that
+- She rarely uses it against humans; pulling the scythe out is a statement that the target is something worth the formality
+- When she does use it, her movement style changes: slower, wider arcs, much more theatrical — she is aware of how it looks and she does not mind
 
 ---
 
-## Relationship With Flesh Abominations
+## Psychological Profile
 
-- They are NOT her allies or tools
-- Hostile to her but avoid due to power difference
-- She cannot command or control them
-- Sometimes creates them accidentally or deliberately
-- They spread and hunt independently
-
----
-
-## Backstory Elements
-
-### The Experiment
-- Recent (months to a year ago)
-- Involved the Internecion Cube
-- She was consumed by it
-- Cube chose her as avatar/host
-- She does NOT know why she was chosen
-- Transformation likely traumatic
-- No memory of who conducted it or where
-
-### Post-Transformation
-- Has been wandering since
-- Discovering her abilities gradually
-- Foundation recently tracked her down
-- No organization controls her
-- Still learning what she is
+- Primary drive: unclear
+- Secondary drive: preserve a human mind from all the madness
+- Trigger risks: attempted containment, deception, betrayal, loss of agency
+- Social behavior: distant, observant and precise, often can interact with community around 
+- Internal burden: constant background chorus of absorbed consciousness and half constant head pain
 
 ---
 
-## Threat Assessment (SCP Foundation Classification)
+## Canon Exit: Separation from the SCP Foundation
 
-**Proposed Class:** Thaumiel (uncontained but potentially cooperative)
+**What happened (locked canon event):**
 
-**Concerns:**
-1. Cannot be contained by known means
-2. Exceptionally powerful with unknown upper limits
-3. Unpredictable behavior
-4. Easily provoked
-5. Could destroy Foundation sites if threatened
+Somewhere after the initial pact, a mid-tier SCP containment breach cascaded into a large-scale event. Not world-ending, but bad enough that Site-77 went into full lockdown and the Foundation's attention collapsed entirely inward. In the chaos, Webb's communication line went dark — reassigned, relocated, or worse, depending on what you want to write.
 
-**Potential Benefits:**
-1. Capable of neutralizing major threats
-2. May cooperate if approached correctly (respects honesty and strength)
-3. Not actively hostile to Foundation unless provoked
+The Foundation did not formally end the agreement. They just had bigger problems.
 
-**Recommendation:**
-- Peaceful contact only
-- Minimal personnel
-- Do NOT attempt containment
-- Do NOT provoke or challenge
-- Establish working relationship on her terms
+Lumina waited a reasonable amount of time, decided that was long enough, and walked.
 
----
+**Current status with the Foundation:**
+- Agreement technically still on paper, practically irrelevant
+- No active pursuit — Foundation threat assessment concluded the resource cost of chasing her outweighs the risk of leaving her alone
+- Webb may or may not still be in the picture depending on the story
+- She does not think about them much. They were interesting for a while.
 
-## Design Inspirations
-
-### Visual:
-- **Roblox "Parasite" face:** Ripped grin, predatory teeth arrangement
-- **Murder Drones (Disassembly Drones):** Bloodthirsty expression, line pupils, drone tail
-- **Ozen the Immovable (Made in Abyss):** Height, build, presence, physicality
-- **IC-0n (Liam Vickers):** Core cube concept, flesh horror, melting tissue
-
-### Mechanical:
-- **IC-0n Animation:** Cube nature, matter manipulation, flesh abominations, Weeping Angel movement
-- **Combat Horror:** Mid-fight transformations, sudden visual horror during action
-
-### Themes:
-- Practical horror (actions are horrifying, not existence itself)
-- Combat horror (horror happens DURING fighting)
-- Body horror (transformation, flesh melting, bone exposure)
-- Testing limits (discovery of capabilities)
+**Why this works for the OS:**
+- Frees Lumina from institutional obligation without making her an enemy of the Foundation
+- Leaves Webb available as a returning character if needed
+- The SCP world can still exist as background texture without governing her stories
+- Clean, undramatic exit — very on-brand for her
 
 ---
 
-**Character Status:** ACTIVE DEVELOPMENT
+## Story Guardrails (For Future Writing)
+
+- Do not portray Lumina as purely sadistic or purely altruistic
+- Keep power high, but keep cost and instability present
+- In action scenes, emphasize contrast: stillness, then violence
+- If biological creation appears, treat it as a serious escalation event
+
+---
+
+## Quick Writing Reference Card
+
+- **Power fantasy axis:** "unstoppable body" plus "unstable biosystem"
+- **Theme axis:** identity erosion, agency, loneliness without self-pity
+- **Dialogue axis:** short, sharp, truthful, darkly playful
+- **Horror axis:** transformation glimpses, not nonstop gore saturation
+
+---
+
+## Current Canon Status
+
+ACTIVE. PRIVATE PROJECT. AUTHOR-OWNED CONTINUITY.
