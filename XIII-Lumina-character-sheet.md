@@ -22,8 +22,8 @@ Use this section as source of truth when writing future stories.
 - **Self-perception:** Calls herself a monster, but still seeks purpose and honest contact
 - **Gluttony curse:** Biomass deprivation does not weaken her body — it erodes her mind and restraint over time until she acts
 - **The cube's true nature:** Not a device or artifact — a carbon-based alien organism, millions of years old, dormant underground until excavated; it was catalogued as an unknown compound because nobody considered it could be alive
-- **Infinite resurrection event:** The lab bodies do not stay dead — the cube cycles them through death and revival indefinitely; they are not abominations, they are something else: matter the cube refuses to release
-- **Abomination vs. resurrection loop:** Distinct phenomena — resurrections are the cube passively recycling matter it has already claimed; abominations are what happens when Lumina actively attempts to reshape biological matter
+- **Infinite resurrection event:** The lab bodies do not stay dead — the cube cycles them; they reconstitute as heavily altered partial-human constructs, conscious but instinct-dominated, automatically hostile
+- **Loop entities vs. abominations:** Distinct phenomena — loop entities are the cube passively reworking matter it already claimed, producing something that retains human consciousness fragments under savage instinct override; abominations are what happens when Lumina actively attempts to reshape biological matter
 
 ---
 
@@ -146,11 +146,56 @@ The outbreak was unnoticed externally because the lab was too small to warrant m
 Word got out through some channel — someone who left before the worst of it. Investors and opportunists arrived wanting to extract the cube, monetise it. They found Lumina alone in the building, standing over what was left. She killed them immediately and without ceremony. She did not feel strongly about it at the time.
 
 **The infinite loop:**
-The lab bodies do not stay dead. The cube, having already rewritten their biology at the cellular level, refuses to release the claim. They die — and reconstitute. Die again — reconstitute again. Not as abominations, not as mindless hunters. Just as bodies, cycling. The process appears automatic, unconscious, something the cube does the way a living organism breathes. Whether they experience anything in the loop is unknown. Lumina does not talk about this. She witnessed it.
+The lab bodies do not stay dead. The cube, having already rewritten their biology, refuses to release the claim on the matter. Each cycle of death reconstitutes them — but not correctly. The carbon rewrite does not restore. It reconfigures. What comes back is structurally unrecognisable: spinal columns extended into long segmented chains, excess limbs branching off in multiples, flesh stripped down to almost nothing — bone and marrow and sinew exposed, still wet and dripping. Remnants of clothing cling to the limbs, shredded. The human shape is referenced but not preserved.
+
+Their consciousness is still active. That is the part Lumina does not discuss. They are not empty — something is home behind whatever those things have instead of eyes. But the instinct rewrite is total. There is no communication, no recognition, no hesitation. Pure automatic hostility to anything living that enters their space.
+
+They spread across the facility the way an infestation does — ceilings, walls, narrow maintenance shafts, anywhere the geometry allows a body to anchor. They move using the Weeping Angel rule: when observed, stillness. When observation breaks for even an instant, instant repositioning. No sound. No transition. Just a different location, a different configuration, it takes them alot of effort and material to move so, yet they are so extremely fast they can pull it off.
+
+They also reconfigure between cycles. The cube adjusts. Whether this is intelligence or just the alien organism iterating on a design is unknown, yet there is still room for consciousness to alter this process and revert it.
+
+Lumina witnessed the first few cycles before she left. She has not gone back.
 **Current status of the lab:**
-Sealed. Location known only to Lumina. She has not returned. This is, depending on how you read her, either trauma avoidance or practical quarantine management. Possibly both.
+Sealed. Location known only to Lumina. She has not returned. practical quarantine managemen.
 
 ---
+
+## Loop Entities (Unnamed, Lab-Contained)
+
+**Origin:** Lab personnel killed and reconstituted by passive cube cycling
+
+**Classification:** Distinct from Lumina-created abominations. 
+
+**Physical profile:**
+- Human biology used as raw material, not as a blueprint
+- Extended spinal columns forming the primary chassis — some specimens documented at 50+ vertebral units
+- Multiple arm structures, count variable per cycle, typically 10–16
+- Flesh reduced to minimum functional coverage; exposed bone, marrow, and connective tissue dominate the silhouette
+- Constant low-level fluid loss and corrosion — blood, ichor, unidentified fluid — dripping from exposed wounds or structures
+- Remnant cloth from original lab clothing remains attached to limb sections, partially absorbed into the tissue
+- No consistent face structure; facial features may be present, absent, or displaced
+
+**Behavioral profile:**
+- Consciousness is intact but instinct-dominated — awareness without agency
+- Automatically hostile to all non-cube-converted biology
+- No communication possible; no recognition of prior identity
+- Occupy all surfaces: floor, ceiling, walls, structural gaps
+- Weeping Angel movement rule applies strictly: observed = frozen, unobserved = instant repositioning
+- Utilise the same mechanism as Lumina, yet times less effective without a catalyst
+- Their movements costs them alot of blood and tissue for the speed and abscent sound
+- No confirmed maximum size or limb count
+
+**Containment:**
+- Currently contained within the sealed lab by virtue of isolation only
+- No active suppression system in place except Lumina periodically making a massacre
+- If the seal is broken, containment fails immediately
+- Lumina is the only known entity capable of reliably neutralising them
+
+**Story note:** These are Lumina's primary investigation target. She does not know if termination is permanent or if the cube will simply reconstitute them again. She does not know if they can be freed. She does not know if there is anything left worth freeing. Yet she is still one trying to retrieve them human form, maybe she will succeed. 
+
+---
+
+## Combat Profile
 
 - Extreme close-range lethality
 - More than godly speed and force
